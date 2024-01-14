@@ -6,7 +6,7 @@
 
 ## Episode 1: The Beginning 🌱
 
-Hey there! 👋 I'm Lubomir, a 13-year-old coding enthusiast diving into the vast ocean of programming. Join me on this exciting adventure as I explore the realms of Java and C#. 🚀
+Hey there! 👋 I'm Lubomir, a 18-year-old coding enthusiast diving into the vast ocean of programming. Join me on this exciting adventure as I explore the realms of Java and C#. 🚀
 
 ## Episode 2: Java Joys ☕
 
