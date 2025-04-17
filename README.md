@@ -46,8 +46,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ТВОЙНИК&show_icons=true&theme=tokyonight" width="410"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ТВОЙНИК&theme=tokyonight" width="410"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nysary&show_icons=true&theme=tokyonight" width="410"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nysary&theme=tokyonight" width="410"/>
 </p>
 
 ---
@@ -56,11 +56,11 @@
 
 <p align="center">
   <a href="https://t.me/ТВОЙТГ"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://github.com/ТВОЙНИК"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/nysary"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ТВОЙНИК&label=Просмотров&color=blueviolet&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=nysary&label=Просмотров&color=blueviolet&style=flat" />
 </p>
